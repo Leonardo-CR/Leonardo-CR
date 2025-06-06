@@ -10,11 +10,9 @@ I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute o
 
 ### :bar_chart: GitHub stats
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+[![Leonardo-CR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-CR&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsky1t&count_private=true&show_icons=true&theme=dark)](https://github.com/Leonardo-CR/github-readme-stats)
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&show_icons=true&theme=dark)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-CR&show_icons=true&theme=dark)
 
  
 </div>
