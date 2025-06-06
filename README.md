@@ -12,5 +12,5 @@ I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute o
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-CR&show_icons=true&theme=dark)
 
  
-</div>
+## Tech stack 
 
