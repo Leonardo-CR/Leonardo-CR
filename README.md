@@ -2,7 +2,9 @@
 
 My name is **Leonardo Rosas** and welcome to my profile.
 
-I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+I’m currently pursuing a degree in **Computer Systems Engineering** and working as a **freelance Laravel developer**.  
+I’m passionate about coding, web development, and continuous learning.  
+I believe in growing through every experience and sharing knowledge to help others along the way.
 
 
 ### :bar_chart: GitHub stats
@@ -11,6 +13,10 @@ I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute o
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-CR&show_icons=true&theme=dark)
 
- 
-## Tech stack 
 
+### 🛠️ Tech Stack
+
+- 💻 Languages: PHP, JavaScript, Python  
+- 🧰 Frameworks: Laravel, Livewire 
+- 🗄️ Databases: MySQL, PostgreSQL  
+- ☁️ Tools: Git, GitHub  
