@@ -6,6 +6,7 @@ I’m currently pursuing a degree in **Computer Systems Engineering** and workin
 I’m passionate about coding, web development, and continuous learning.  
 I believe in growing through every experience and sharing knowledge to help others along the way.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### :bar_chart: GitHub stats
 
