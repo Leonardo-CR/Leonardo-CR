@@ -4,9 +4,6 @@ My name is **Leonardo Rosas** and welcome to my profile.
 
 I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-  
-
 
 ### :bar_chart: GitHub stats
 
@@ -16,6 +13,4 @@ I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute o
 
  
 </div>
-------
-Credits:[Kingsky1t](https://github.com/Kingsky1t)
-Last Edited:05/04/23
+
